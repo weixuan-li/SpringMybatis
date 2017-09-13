@@ -9,7 +9,7 @@ import com.test.model.User;
  */
 public interface UserMapper {
 	
-	public User selectUserById(int usreId);
+	public User selectUserById(int userId);
 	
 
 }
